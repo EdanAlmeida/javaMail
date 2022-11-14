@@ -1,0 +1,17 @@
+package enviando.email;
+
+import static org.junit.Assert.assertTrue;
+
+import org.junit.Test;
+
+/**
+ * Unit test for simple App.
+ */
+public class AppTest {
+   
+	/*JUnit é a mesma coisa que fazer um método main*/
+	@Test
+	public void testeEmail() {
+		
+	}
+}
